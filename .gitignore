@@ -1,0 +1,4 @@
+# Ignoruj foldery budowania Qt i CMake
+build/
+.qtcreator/
+*.user
